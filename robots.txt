@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drploy-alpha-kiz.vercel.app/sitemap.xml
